@@ -152,4 +152,64 @@ export const projects: Project[] = [
     description:
       "A multi-page editorial brochure with disciplined columns, gold rule work, and a quiet serif voice. Built to read like a journal, not a flyer.",
   },
+  {
+    id: "medicon-grand-arch",
+    title: "MEDICON 2025 Grand Arch",
+    category: "Arch",
+    client: "Tamil Nadu Medical Council",
+    year: 2025,
+    image: p13,
+    description:
+      "A 22-foot illuminated entrance arch designed for the inaugural procession of MEDICON 2025. The classical South Indian gopuram silhouette is reinterpreted in deep navy and burnished gold — a quiet signal to delegates that this is a gathering of consequence. Built to anchor opening-day photography and frame the convener's welcome.",
+  },
+  {
+    id: "ortho-mainstage-led",
+    title: "Orthopaedic Surgeons Mainstage",
+    category: "Stage Backdrop",
+    client: "Tamil Nadu Orthopaedic Association",
+    year: 2025,
+    image: p14,
+    description:
+      "A 40ft × 14ft LED-ready mainstage backdrop for a state-level orthopaedic congress. The composition reserves the upper plane for the conference identity and the lower band for a disciplined sponsor lockup — a hierarchy that respects the surgeons on stage and the partners who underwrite the science. Engineered for camera contrast under tungsten and LED keys.",
+  },
+  {
+    id: "gynec-program-spread",
+    title: "Gynaecology Congress Program",
+    category: "Brochure",
+    client: "FOGSI South Zone",
+    year: 2025,
+    image: p15,
+    description:
+      "A 64-page perfect-bound program book for a three-day OB-GYN congress. Editorial columns guide delegates through scientific sessions, faculty bios, and abstract listings, with anatomical line plates printed in single-colour gold. Designed to live on a clinician's shelf long after the conference ends.",
+  },
+  {
+    id: "nephro-roll-up",
+    title: "Nephrology Update Roll-Up",
+    category: "Flex",
+    client: "Indian Society of Nephrology — TN Chapter",
+    year: 2025,
+    image: p16,
+    description:
+      "A registration-desk roll-up for a nephrology CME. The caduceus is rendered in restrained gold against a deep navy field, with the conference title set in a confident serif. Sized and contrast-tuned for the first impression delegates form while collecting their kits.",
+  },
+  {
+    id: "ophthal-summit-arch",
+    title: "Ophthalmology Summit Twilight Arch",
+    category: "Arch",
+    client: "All India Ophthalmological Society — South",
+    year: 2024,
+    image: p17,
+    description:
+      "An illuminated double-pillar entrance arch for a national ophthalmology summit, photographed at the blue hour outside a Chennai convention centre. The lighting design intentionally separates the conference identity from the sponsor strip, so delegate arrival photos lead with the science — not the logos.",
+  },
+  {
+    id: "delegate-kit-set",
+    title: "Delegate Kit & Badge System",
+    category: "Brochure",
+    client: "South India CME Federation",
+    year: 2025,
+    image: p18,
+    description:
+      "A complete delegate kit: navy hardcover program, gold-foil session passes, lanyard, and printed badge insert. Every touchpoint a clinician handles between registration and the closing dinner is on the same typographic system — a small discipline that makes a 1,200-delegate conference feel curated.",
+  },
 ];
