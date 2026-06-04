@@ -22,7 +22,7 @@ export function Contact() {
             </a>
             <div className="flex items-center gap-4">
               <MapPin size={18} className="text-gold" />
-              <span>Thanjavur, Tamil Nadu, India</span>
+              <span>Thanjavur, Tamil, India</span>
             </div>
           </div>
         </div>
