@@ -86,6 +86,13 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { name: "author", content: "Auralystic" },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
+      { property: "og:title", content: "Auralystic — Medical Conference Graphic Design" },
+      { name: "twitter:title", content: "Auralystic — Medical Conference Graphic Design" },
+      { name: "description", content: "Designs" },
+      { property: "og:description", content: "Designs" },
+      { name: "twitter:description", content: "Designs" },
+      { property: "og:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/UZGiD2PkRZa9U8lqC2Xlhv7HANz2/social-images/social-1780590459892-cb38234e-b885-4d5d-82bd-ed3582d37a8f.webp" },
+      { name: "twitter:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/UZGiD2PkRZa9U8lqC2Xlhv7HANz2/social-images/social-1780590459892-cb38234e-b885-4d5d-82bd-ed3582d37a8f.webp" },
     ],
     links: [
       { rel: "stylesheet", href: appCss },
