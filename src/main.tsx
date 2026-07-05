@@ -11,6 +11,8 @@ import { Footer } from "./components/portfolio/Footer";
 import "./styles.css";
 
 function App() {
+
+  
   return (
     <div className="min-h-screen bg-background text-foreground">
       <Header />
